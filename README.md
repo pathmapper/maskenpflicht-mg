@@ -1,7 +1,9 @@
 # maskenpflicht-mg
 Beispiel, wie mit ein paar Zeilen Code eine interaktiven Karte mit Zonen, in denen eine Mund-Nasen-Bedeckung auch im öffentlichen Außenbereich vorgeschrieben ist, erstellt werden kann.
 
-**Achtung: Dies ist nur eine Beispiel und es wird keine Gewähr für die richtige Darstellung der Zonen übernommen.**
+**Achtung: 
+
+Dies ist nur eine Beispiel und es wird keine Gewähr für die richtige Darstellung der Zonen übernommen.**
 
 Die für die Stadt Mönchengladbach rechtlich verbindlichen Zonen und der Zeitraum, in dem eine Tragepflicht von Mund-Nase-Bedeckung im öffentlichen Außenbereich gilt, finden sich in der Allgemeinverfügung der Stadt Mönchengladbach:
 
