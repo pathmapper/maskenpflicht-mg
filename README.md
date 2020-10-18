@@ -10,6 +10,12 @@ Die für die Stadt Mönchengladbach rechtlich verbindlichen Zonen und der Zeitra
 * https://www.moenchengladbach.de/fileadmin/user_upload/MNS-Pflicht_MG.PNG
 * https://www.moenchengladbach.de/fileadmin/user_upload/MNS-Pflicht_RY.PNG
 
+## Standort anzeigen
+
+Die Karte ist auch auf einem Smartphone verwendbar. Mit dem Button "Standort anzeigen" lässt sich die eigene Position auf der Karte, dargestellt durch einen blauen Punkt, anzeigen (sofern die entsprechenden Dienste, z.B. GPS aktiviert sind).
+
+<img src="https://raw.githubusercontent.com/pathmapper/maskenpflicht-mg/main/standort_anzeigen.png" width="200">
+
 
 ## Hintergrundkarte
 © 2020 AdV, Smart Mapping | Datenquellen: © GeoBasis-DE
